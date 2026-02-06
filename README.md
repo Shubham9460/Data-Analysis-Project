@@ -110,3 +110,4 @@ Management Reporting:
 Provides a clean, executive-ready dashboard for quick decision-making.
 6. Screenshots / Demos
 Show what the dashboard looks like. - Alt text Example:
+https://github.com/Shubham9460/Data-Analysis-Project/blob/main/Mobile%20Sales%20Dasboard.png
